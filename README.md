@@ -138,3 +138,8 @@ Testador não oficial: "𝓐𝓷𝓭 𝓣𝓱𝓮 𝓓𝓪𝓻𝓴"
 <a href="https://www.patreon.com/user001js">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a> (Não disponível no momento)
+</p >
+
+# Copyright © 2022 user 001, FBI FIVE-0
+
+A alteração e/ou modificação para divulgação e/ou distribuição deste código (se modificado) está proibida, apenas a divulgação com os devidos créditos está autorizada.
