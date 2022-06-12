@@ -111,10 +111,15 @@ Basta pressionar **ENTER** para selecionar o arquivo padrão (`códigos_válidos
 # CRÉDITOS
 
 Criador: user 001#0001
+
 Autor: user 001/@user001js
+
 Canal do YouTube: https://youtube.com/channel/UChhgLjZCc8ZaG_ogWWKwyyA
+
 Servidor do Discord: https://discord.gg/g9GeX7JyAH
-Apoiadores: user 002/dan 001, brunin 003, exe.Kyller, 
+
+Apoiadores: user 002/dan 001, brunin 003, exe.Kyller, Allanzinh0
+
 Testador não oficial: "𝓐𝓷𝓭 𝓣𝓱𝓮 𝓓𝓪𝓻𝓴"
 
 # LICENÇA
