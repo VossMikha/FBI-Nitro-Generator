@@ -18,7 +18,7 @@ Resposta: É um gerador de *vale-presente* (mais conhecido como "**Discord Nitro
     <img src="https://user-images.githubusercontent.com/101312928/173217124-76c8f56c-92e5-4fdb-945f-f92fa9afef97.png" alt="FBI Nitro Generator Banner">
   </a>
   
-  <h3 align="center">O FBI Nuker é um programa em Python onde você pode derrubar servidores facilmente com um bot no Discord, tanto para programadores, quanto para não-programadores.</h3>
+  <h3 align="center">O FBI Nitro Generator é um programa em JavaScript onde você pode gerar códigos de Discord Nitro e você pode escolher entre apenas gerar sem verificação ou gerar com verificação, para ver se o código gerado é válido ou não.</h3>
   <p align="center">
     <br />
     <a href="https://fbifive-0.wixsite.com/info"><strong>Site do FBI</strong></a>
