@@ -171,7 +171,7 @@ if (answers.mode == "Gerar códigos com verificador - lento") {
       printLogo()
       console.log(`Quantidade de código(s) gerado(s): ${status.valid + status.invalid} | Código(s) válido(s): ${status.valid} - Código(s) inválido(s): ${status.invalid}`)
       const code = await GenerateRandomString(16)
-      console.log(`Verificando: https://discord.gift/${code}`) // verificando se o código é válido
+      console.log(`Verificando: https://discord.gift/${code}`) // verificando se o código é válido ou não
       if (await CheckCode(code)) {
         status.valid++
         codigosValidos.push(`https://discord.gift/${code}`)
